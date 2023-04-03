@@ -64,14 +64,14 @@ footer {
 }
 
 .game-over {
-  background-color: red;
+  background-color: rgba(234, 0, 255, 0.589);
   opacity: 0.8;
 }
 
 .pressed {
   box-shadow: 0 3px 4px 0 #dbedf3;
   opacity: 0.5;
-  background-color: red;
+  background-color: rgb(145, 255, 0);
   -moz-transform: scale(0.9);
   -webkit-transform: scale(0.9);
   -o-transform: scale(0.9);
@@ -80,7 +80,7 @@ footer {
 }
 
 .red {
-  color: red;
+  color: rgba(255, 0, 0, 0.911);
 }
 
 .drum {
